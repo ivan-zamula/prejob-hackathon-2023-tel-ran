@@ -4,7 +4,7 @@
 
 A career video catalogue built for the Tel-Ran hackathon. Users can browse videos, search by title or profession, and select category filters. Our team won the hackathon.
 
-This repository is my fork of the shared [tel-ran-de/career_team_2](https://github.com/tel-ran-de/career_team_2) project.
+A shared team project: [tel-ran-de/career_team_2](https://github.com/tel-ran-de/career_team_2).
 
 ## My role and team
 
@@ -67,4 +67,4 @@ Open [http://localhost:3000](http://localhost:3000).
 | GET | `/profession` | List professions |
 | GET | `/profession/search?name={value}` | Search professions |
 
-The implementation and contributor notes are in the [backend source](backend/src/main/java/de/telran/backend). Team authorship and the original project history are preserved in this fork.
+The implementation and contributor notes are in the [backend source](backend/src/main/java/de/telran/backend). The repository preserves team authorship and the shared project history.
